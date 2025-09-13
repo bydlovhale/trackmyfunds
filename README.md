@@ -14,4 +14,4 @@ A simple Python-based expense tracker that allows users to add, view, and delete
 
 ## Run
 ```bash
-python expense_tracker.py
+python trackmyfunds.py
